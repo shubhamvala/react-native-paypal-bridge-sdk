@@ -1,4 +1,3 @@
-
 #import "RNPaypalSdk.h"
 #import "React/RCTBridge.h"
 #import "PayPalMobile.h"
@@ -134,4 +133,3 @@ RCT_REMAP_METHOD(paymentRequest,
 }
 
 @end
-  
